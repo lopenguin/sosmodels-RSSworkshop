@@ -1,0 +1,6 @@
+[deps]
+Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
+JuliaBUGS = "ba9fb4c0-828e-4473-b6a1-cd2560fee5bf"
+MosekTools = "1ec41992-ff65-5c91-ac43-2df89e9693a4"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Turing = "fce5fe82-541a-59a6-adf8-730c64b5f9a0"
