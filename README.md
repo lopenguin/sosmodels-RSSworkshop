@@ -1,6 +1,10 @@
 # [Global Function Modeling and Minimization with SOS Bayesian Optimization](paper.pdf)
 Lorenzo Shaikewitz (MIT) and Frederike Dumbgen (CMU)
 
+![](front.png)
+
+View the paper [here](paper.pdf).
+
 This repo contains the RSS workshop paper and a minimal demo in Julia aligned with the toy example. To get started, open this repo's directory in your terminal and type:
 
 ```
